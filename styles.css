@@ -132,7 +132,7 @@ section {
 
 @media (max-width: 700px) {
     #navbar {
-        width: 8%; /* Reduce navbar width */
+        width: 8%;
     }
 
     #main-doc {
